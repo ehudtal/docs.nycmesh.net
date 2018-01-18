@@ -3,7 +3,7 @@ layout: default
 hidetitle: true
 ---
 
-## NYC Mesh Project wiki 
+## NYC Mesh Project docs 
 NYC Mesh is a community owned network in the New York City area. [Join our network through our main page.](https://nycmesh.net/join)  
 This wiki serves as our primary public documentation. For more information about editing this wiki, visit [Wiki](/wiki)
 
