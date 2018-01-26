@@ -1,7 +1,7 @@
 ---
 title: New Page
 layout: default
-category: Help Us 
+category: Help us 
 ---
 
 # This is a pretty sweet new page that has lots of features..
