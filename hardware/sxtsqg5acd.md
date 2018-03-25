@@ -8,26 +8,26 @@ The SXTSQ 5acD ( sxtsq ) is a small client access antenna that is 802.11 standar
 The device was released in early 2018 and is capable of gigabit-level speeds with 80Mhz wide 802.11ac wifi connections.
 
 
-## Uses
+# Uses
 * LinkNYC Kiosk connection
 * Hub node connection ( for standard 802.11ac hubs )
 
 
-## Device idiocyncracise
+# Device idiocyncracise
 
-# License 
+## License 
 Mikrotik software usually requires a license, though all Mikrotik devices come with an internal license, which varies with the model.
 This antenna comes with a "Level 3" license which technically only allows it to function as a CPE, not an AP. Therefore this device is not good and can not be used as a base station.  
 
-# US vs International version
+## US vs International version
 On the positive side, it is a great CPE and can connect to DFS channels ( international version ) and other intersting features such as EAP TTLS authentication.  
 As a precaution, this antenna has a US version and an International version. The US version is locked to "united states3" channels which are the non-DFS range.  
 The international version also has US settings, but it has two additional "united states" channel selections all for valid legal US channels.  To function on LinkNYC and other DFS networks, the international version is required, but be sure to put it in "united states2" mode before using it.
 
 
-## Configuration lines
+# Configuration lines
 
-# LinkNYC Kiosk connection ( private network )
+## LinkNYC Kiosk connection ( encrypted )
 LinkNYC kiosks have both an unencrypted and encrypted network available. They function similarly and have the same internet available.  
 The encrypted version is using a fancy feature which is marketed as "passpoint" ( an authentication tech that cable internet provider are trying to leverage that allows you to roam across an area with a login ).   
 The encrypted network is more secure because no traffic can be sniffed between the kiosk and your CPE. Additionally there is no captive portal, which is a major positive.

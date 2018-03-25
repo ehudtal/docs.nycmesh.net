@@ -37,6 +37,26 @@ ubnt@ubnt:~$
 ```
 From here you can apply commands such as the ones below.
 
+## Device idiosyncrasies
+
+# Hardware NAT
+If using the device as a router in NAT mode ( not router on the mesh ), the default settings will yield a very slow connection.  
+Hardware NAT should be enabled, which was just possible as of firmware version v1.9.7.  
+This page at Ubnt discusses more: https://help.ubnt.com/hc/en-us/articles/115006567467-EdgeRouter-Hardware-Offloading-Explained
+
+To enable hardware offload on this model, perform the following commands on the CLI:
+```
+configure
+set system offload hwnat enable
+commit
+save
+exit
+```
+
+## Wireguard VPN
+coming
+
+
 ## Switched Mode ##
 To convert the EP-R6 to switched mode, follow these steps.
 This will create a switch, move all ports to it, move the management interface IP to it.
