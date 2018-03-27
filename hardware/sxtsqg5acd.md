@@ -13,11 +13,11 @@ The device was released in early 2018 and is capable of gigabit-level speeds wit
 * Hub node connection ( for standard 802.11ac hubs )
 
 
-# Device idiocyncracise
+# Device idiosyncrasies
 
 ## License 
 Mikrotik software usually requires a license, though all Mikrotik devices come with an internal license, which varies with the model.
-This antenna comes with a "Level 3" license which technically only allows it to function as a CPE, not an AP. Therefore this device is not good and can not be used as a base station.  
+This antenna comes with a "Level 3" license which technically only allows it to function as a CPE, not an AP. Therefore this device can not be used as a base station.  
 
 ## US vs International version
 On the positive side, it is a great CPE and can connect to DFS channels ( international version ) and other intersting features such as EAP TTLS authentication.  
