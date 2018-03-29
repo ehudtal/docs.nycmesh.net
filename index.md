@@ -5,17 +5,9 @@ hidetitle: true
 
 ## NYC Mesh Project docs 
 NYC Mesh is a community owned network in the New York City area. [Join our network through our main page.](https://nycmesh.net/join)  
-This wiki serves as our primary public documentation. For more information about editing this wiki, visit [Wiki](/wiki)
+These GitHub pages serve as our primary public documentation. Edit this on [github](https://github.com/nycmeshnet/docs.nycmesh.net).
 
-| [Getting Started](/howto/gettingstarted) | [Hardware](/hardware)
-| [Networking and Architecture](/networking) | x
+| [Getting Started](#show-How%20to) | [Hardware](/#show-Hardware)
+| [Networking and Architecture](/#show-Networking) | [Software]
 {: .balancedtable }
-
-
-## Other stuff
-* This is maybe not the best layout...
-
-
-| Connectivity | Features 
-| People | Hardware
 
