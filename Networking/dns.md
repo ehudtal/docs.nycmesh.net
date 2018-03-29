@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DNS
-category: networking
+category: Networking
 ---
 
 soemthing

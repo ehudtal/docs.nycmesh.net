@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Flashing Nanostation M5 with NYC Mesh Firmware"
-category: How To
+category: How to
 ---
 
 Don't forget to read our [FAQ](https://nycmesh.net/faq) on the main site.  

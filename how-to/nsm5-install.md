@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "NanoStationM5 Outdoor install"
-category: How To
+category: How to
 ---
 
 NanoStation NSM5 installs 

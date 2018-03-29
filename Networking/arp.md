@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ARP
-category: networking
+category: Networking
 ---
 ### ARP
 Arp is a fun tool

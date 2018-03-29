@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basics
-category: networking
+category: Networking
 ---
 This is a section on the basics of networking
 
