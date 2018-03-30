@@ -8,6 +8,6 @@ NYC Mesh is a community owned network in the New York City area. [Join our netwo
 These GitHub pages serve as our primary public documentation. Edit this on [github](https://github.com/nycmeshnet/docs.nycmesh.net).
 
 | [Getting Started](#show-How%20to) | [Hardware](/#show-Hardware)
-| [Networking and Architecture](/#show-Networking) | [Software]
+| [Networking and Architecture](/#show-Networking) | [NYC Mesh](https://nycmesh.net)
 {: .balancedtable }
 
