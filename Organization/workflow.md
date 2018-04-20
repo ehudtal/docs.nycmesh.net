@@ -47,13 +47,13 @@ On the ticket, agent should assign the Help topic “01 waiting for pano” and 
 
 3. If no response from the user (maybe auto-response went to spam) agent sends Spam SMS following this procedure:
 ```
-1. Go to the ticket and copy the phone number.
-2. Sign into nycmeshmail@gmail.com.
-3. On the left you’ll see the NYC Mesh icon with a “+”. Click on the plus, and paste in the phone number. Click on “Send SMS”.
-4. Back at the bottom of the ticket, select the canned response “15-spam sms message”. Copy the generated message. Do not send this message to the user via the ticket.
-5. Paste this message into the SMS text area and send the SMS.
-6. Back at the ticket, click on “Post Internal Note” and paste the message there as well.
-7. Edit the ticket and assign it the Help topic “012-sent spam sms” and save.
+- Go to the ticket and copy the phone number.
+- Sign into nycmeshmail@gmail.com.
+- On the left you’ll see the NYC Mesh icon with a “+”. Click on the plus, and paste in the phone number. Click on “Send SMS”.
+- Back at the bottom of the ticket, select the canned response “15-spam sms message”. Copy the generated message. Do not send this message to the user via the ticket.
+- Paste this message into the SMS text area and send the SMS.
+- Back at the ticket, click on “Post Internal Note” and paste the message there as well.
+- Edit the ticket and assign it the Help topic “012-sent spam sms” and save.
 
 If another week goes by with no response, then close the ticket.
 ```
