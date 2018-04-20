@@ -33,13 +33,12 @@ Once an install is deemed viable we send a link to our calendar so the new membe
 **General Workflow Description:**
 
 1. User fills out the join form
-  * Row with node number and user info is created in the main spreadsheet.
-  * Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
-  * OSTickets sends auto-response asking for confirmation and a panoramic image of the user's view.
-  
 ```
 Ticket is automatically assigned the help topic "010-join form / rooftop or standard".
 ```
+  * Row with node number and user info is created in the main spreadsheet.
+  * Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
+  * OSTickets sends auto-response asking for confirmation and a panoramic image of the user's view.
 
 2. Ticket is claimed by an agent.
 ```
