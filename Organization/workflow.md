@@ -33,11 +33,12 @@ Once an install is deemed viable we send a link to our calendar so the new membe
 **General Workflow Description:**
 
 1. User fills out the join form
-  * row with node number and user info is created in the main spreadsheet.
-  * ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
+  * Row with node number and user info is created in the main spreadsheet.
+  * Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
   * OSTickets sends auto-response asking for confirmation and a panoramic image of the user's view.
+  
 ```
-Ticket is automatically assigned the help topic "010-join form / rooftop or standard"
+Ticket is automatically assigned the help topic "010-join form / rooftop or standard".
 ```
 
 2. Ticket is claimed by an agent.
@@ -54,8 +55,7 @@ On the ticket, agent should assign the Help topic “01 waiting for pano” and 
 - Paste this message into the SMS text area and send the SMS.
 - Back at the ticket, click on “Post Internal Note” and paste the message there as well.
 - Edit the ticket and assign it the Help topic “012-sent spam sms” and save.
-
-If another week goes by with no response, then close the ticket.
+- If another week goes by with no response, then close the ticket.
 ```
 
 4. User responds with a pano.
