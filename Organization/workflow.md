@@ -68,5 +68,4 @@ Info to come.
   
 8. Installer volunteers to do install.
 
-9. Install info here:
-https://docs.google.com/presentation/d/1tIi4QSxitKx6un9pPfzCNJnribGZKAK1y9t8FtPl0gg/edit#slide=id.g3715bd45a8_0_6
+9. Install info [here](https://docs.google.com/presentation/d/1tIi4QSxitKx6un9pPfzCNJnribGZKAK1y9t8FtPl0gg/edit#slide=id.g3715bd45a8_0_6).
