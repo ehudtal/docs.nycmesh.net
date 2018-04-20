@@ -35,7 +35,7 @@ Info to come.
 **General Workflow Description:**
 
 1. User fills out the join form
-> Ticket is automatically assigned the help topic "010-join form / rooftop or standard".
+> Ticket is automatically assigned the help topic "010-join form / rooftop" or "010-join form / standard".
 
   * Row with node number and user info is created in the main spreadsheet.
   * Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
