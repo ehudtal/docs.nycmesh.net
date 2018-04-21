@@ -35,9 +35,9 @@ Info to come.
 **General Workflow Description:**
 
 1. User fills out the join form
-> Ticket is automatically assigned the help topic "010-join form / rooftop" or "010-join form / standard".
-> Row with node number and user info is created in the main spreadsheet.
-> Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").
+> Ticket is automatically assigned the help topic "010-join form / rooftop" or "010-join form / standard".  
+> Row with node number and user info is created in the main spreadsheet.  
+> Ticket is created in OSTickets to be claimed by a NYC Mesh volunteer ("agent").  
 > OSTickets sends auto-response asking for confirmation and a panoramic image of the user's view.
 
 2. Ticket is claimed by an agent.
@@ -54,7 +54,7 @@ Info to come.
 * If another week goes by with no response, then close the ticket.
 
 4. User responds with a pano.
-> Agent should then reassign ticket to Jason Howard to add the pano the map.
+> Agent should then reassign ticket to Jason Howard to add the pano the map.  
 > Jason will assign the ticket back to Agent when pano is added.
 
 5. Agent should correspond with the user until install type is determined.
