@@ -4,7 +4,7 @@ title: Ubiquiti EdgePoint R6
 category: Hardware
 ---
 
-The EP-R6 is an outdoor rooftop switch/router with 6 ports ( 6 GigE, 1 SFP ).  
+The EP-R6 is an outdoor rooftop switch/router with 6 ports ( 5 GigE, 1 SFP ).  
 It supports PoE, but only Ubiquiti's 24v Passive PoE style, not any of the fancier types.
 
 It can be configured in switch mode ( just a switch, with a management console ) or routing mode ( hub node setup, BGP, etc ).
