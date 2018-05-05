@@ -26,6 +26,9 @@
           {{ page.category }} > {{ page.title }}
         </h6>
       {% endunless %}
+      {% if page.wip %}
+        {% include wip.html %}
+      {% endif %}
       {{ content }}
       </section>
       <div class="push"></div>

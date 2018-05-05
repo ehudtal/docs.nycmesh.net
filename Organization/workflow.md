@@ -6,14 +6,15 @@ category: Organization
 
 # Overview
 
-*Join form*
+**Join Form**
 
-Everything begins with the [Join form](https://nycmesh.net/join)
-This creates a new row in the main spreadsheet and assigns a node number and sends a support ticket
+Everything begins when a user fills out our [Join Form](https://nycmesh.net/join).
 
-**Main spreadsheet**
+Submitting it assigns the user a node number, sends a support ticket, and adds a row to a spredsheet in Google Docs we refer to as our "main spreadsheet."
 
-Once in the spreadsheet a new node becomes a gray dot on [our map](nycmesh.net/map)
+**Main Spreadsheet**
+
+New nodes are displayed as gray dots on [our map](nycmesh.net/map). They are rendered from the spreadsheet using the [map-nodes](https://github.com/nycmeshnet/map-nodes) code on our Github.
 
 **Support Ticketing**
 
