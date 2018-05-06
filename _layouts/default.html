@@ -1,10 +1,11 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}  - {{ page.title | default: site.github.owner_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="/assets/images/icon-hires.png" rel="icon" sizes="192x192">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -25,6 +26,9 @@
           {{ page.category }} > {{ page.title }}
         </h6>
       {% endunless %}
+      {% if page.wip %}
+        {% include wip.html %}
+      {% endif %}
       {{ content }}
       </section>
       <div class="push"></div>

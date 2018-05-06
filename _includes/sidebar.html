@@ -13,7 +13,7 @@ Categories:
             {% for page in subpages %}
                 {% if page.title %}
                   <li>
-                    <a href="{{page.url | remove: '.html' }}#show-{{cat}}"><span>{{page.title}}</span></a>
+                    <a href="{{page.url | remove: '.html' }}#show-{{cat}}"><span>{{page.title}} {{page.order}}</span></a>
                   </li>
                 {% endif %}
             {% endfor %}
