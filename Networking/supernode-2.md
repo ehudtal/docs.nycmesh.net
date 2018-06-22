@@ -4,7 +4,7 @@ title: Node 570
 category: Networking
 ---
 
-570 is a hub node located at 1196 Metropolitan Avenue in Brooklyn New York. The installation provides mesh and internet connectivity for building residents as well as some areas of the East Williamsburg and Bushwick neighborhoods.
+Supernode 2 (node 570) is located at 1196 Metropolitan Avenue in Brooklyn New York. The installation provides mesh and internet connectivity for building residents as well as some areas of the East Williamsburg and Bushwick neighborhoods.
 
 ## Status
 
