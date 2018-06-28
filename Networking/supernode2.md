@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Node 570
+title: Supernode 2
 category: Networking
 ---
 
